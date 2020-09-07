@@ -3,6 +3,21 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/Scala Console">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../data-engineer-fc-sselvanataraj/task-filter-columns/src/main/scala/com/bosch/test/FilterCol.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../leetcode/src/main/java/prep1/bloomberg/arraysAdhoc/SortCharactersByFrequency_0451.java">
           <value>
             <set />
@@ -44,6 +59,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/HelloWorld1.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/ImplicitConversions.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/ImplicitConversions2.scala">
           <value>
             <set />
           </value>
@@ -104,6 +129,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/maps.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/methodsHandson.scala">
           <value>
             <set />
           </value>

@@ -19,7 +19,7 @@ object methodsHandson {
 
     sayHi
 
-    /** 3. **/
+    /** 3. Multiple arguments**/
     def variableArgs(args: Int*) = {
       var sum:Int =0;
 
