@@ -3,6 +3,21 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/../leetcode/src/main/java/prep1/bloomberg/arraysAdhoc/SortCharactersByFrequency_0451.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/main/java/prep1/bloomberg/sorting/SortCharactersByFrequency_0451.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../leetcode/src/main/java/prep1/bloomberg/trees/VerticalOrderTraversal_0314.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -14,6 +29,116 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/scala/TestApp.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/ForLoop.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/HelloWorld.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/HelloWorld1.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/Test.sc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/abstractClasses.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/arrays.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/breakAndContinue.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/classes.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/closures.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/doc">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/functionsHandson.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/higherOrderFunctions.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/inputOutput.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/maps.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/patternMatching.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/recursion.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/sealedTraits.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/strings.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/traits.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/tuples.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/basics/whileLoop.scala">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/scala/scala/examples/unit/tests/SomeApp.scala">
           <value>
             <set />
           </value>
@@ -44,21 +169,6 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/scala/some/SomeUtilTest.scala">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/github/leetcode/src/main/java/prep1/bloomberg/arraysAdhoc/SortCharactersByFrequency_0451.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/github/leetcode/src/main/java/prep1/bloomberg/sorting/SortCharactersByFrequency_0451.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/github/leetcode/src/main/java/prep1/bloomberg/trees/VerticalOrderTraversal_0314.java">
           <value>
             <set />
           </value>

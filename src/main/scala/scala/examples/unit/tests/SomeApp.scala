@@ -1,4 +1,4 @@
-package scala.examples
+package scala.examples.unit.tests
 
 object SomeApp {
 

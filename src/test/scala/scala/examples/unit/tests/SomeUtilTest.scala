@@ -1,7 +1,7 @@
-package scala.examples
+package scala.examples.unit.tests
 
-import org.junit.Test
 import org.junit.Assert.assertEquals
+import org.junit.Test
 
 class SomeUtilTest {
 
